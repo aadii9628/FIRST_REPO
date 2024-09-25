@@ -1,3 +1,3 @@
 # FIRST_REPO
 THIS IS MY FIRST REPOSITORY <br>
-by : Aditya
+by : Aditya patel
